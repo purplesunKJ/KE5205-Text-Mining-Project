@@ -13,3 +13,11 @@ MsiaAccidentCases.xlsx is a small sample of accident summaries collected from Ma
 
 The other document, osha.xlsx, is much larger. Due to resource constraint, it’s not labeled with the main causes.
 
+1.	Which type of accidents (in terms of main causes) are more common in fatal or catastrophic accidents?
+
+2.	What are the more risky occupations in such accidents?
+
+3.	Which parts of human body are more prone to be injured in such accidents
+
+4.	What are the common activities that the victims were engaged in prior to the accident?
+
